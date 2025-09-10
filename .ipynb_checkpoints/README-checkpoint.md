@@ -1,5 +1,2 @@
 # python_for_datascience
 My learning journey
-
-Experiment 1.1 
-
